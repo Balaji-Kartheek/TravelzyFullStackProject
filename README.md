@@ -98,7 +98,7 @@ giving the details of that place and a snapshot if possible.
   <img width=600px src="https://user-images.githubusercontent.com/75264791/206534833-2cf113bc-3271-4a9c-adab-340f5fefd77a.png">
 </p>
 
-* **Restaurants** –insthis painse dispinsays restau/insnts anins can be </ins>ered
+* **Restaurants** –in this section it displays restaurants </ins>ered
 by searching using <ins>name</ins> or <ins>location</ins> or <ins>cuisine</ins> based on user
 choices.
 
